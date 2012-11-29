@@ -88,7 +88,7 @@ function Import:PerformImport()
    local classnames = { 
       ["WARRIOR"] = 0, ["MAGE"] = 0, ["HUNTER"] = 0, 
       ["PRIEST"] = 0, ["PALADIN"] = 0, ["SHAMAN"] = 0,
-      ["ROGUE"] = 0, ["DRUID"] = 0, ["WARLOCK"] = 0, ["DEATHKNIGHT"] = 0
+      ["ROGUE"] = 0, ["DRUID"] = 0, ["WARLOCK"] = 0, ["DEATHKNIGHT"] = 0, ["MONK"] = 0
    }
     
    -- Go through each string in DKPmon_CSV_Import_Data, and perform the import.
